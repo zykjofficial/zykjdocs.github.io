@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>卓越科技的Docs</title>
+  <icon>https://cdn.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/favicon.ico</icon>
+  <subtitle>卓越人生、只为科技。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://zykjofficial.tk/"/>
+  <updated>2020-07-31T02:33:13.681Z</updated>
+  <id>https://zykjofficial.tk/</id>
+  
+  <author>
+    <name>卓越科技-</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>卓越科技的Hexo博客搭建与美化教程</title>
+    <link href="https://zykjofficial.tk/docs/2bb485aa/"/>
+    <id>https://zykjofficial.tk/docs/2bb485aa/</id>
+    <published>2020-04-04T14:05:50.000Z</published>
+    <updated>2020-07-31T02:33:13.681Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;https://zykj.js.org/posts/e55bad60/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="https://zykjofficial.tk/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="https://zykjofficial.tk/tags/Hexo/"/>
+    
+      <category term="博客" scheme="https://zykjofficial.tk/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
